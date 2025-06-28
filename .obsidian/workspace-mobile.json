@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "04ccd9acffe0c9be",
+        "id": "db990d51eb4ff7a0",
         "type": "tabs",
         "children": [
           {
-            "id": "d4d86f02e08d49ec",
+            "id": "5f04e29731ed89c8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "63e106e343d1f372",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +31,8 @@
               "title": "Sample"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,9 +147,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "7cab3a260af7d4e7",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,13 +172,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4d86f02e08d49ec",
+  "active": "63e106e343d1f372",
   "lastOpenFiles": [
+    "Ajith.md",
+    "Memory.md",
+    "Sample.md",
     "Vijay.md",
     "To-do.md",
-    "Sample.md",
-    "Memory.md",
-    "Ajith.md",
     "README.md",
     "https:/github.com/muruganyuvaraaj/obsidian_notes.git/refs/tags",
     "https://github.com/muruganyuvaraaj/obsidian_notes.git/refs/tags",
