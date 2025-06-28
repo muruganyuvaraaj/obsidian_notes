@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "db1b70c41028c81b",
+    "type": "split",
+    "children": [
+      {
+        "id": "04ccd9acffe0c9be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4d86f02e08d49ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sample.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9266411eb770b40c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f1ec930cbdcace72",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "4b3f19417838d658",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "7a65cd90c88edb7e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "35c8f419d9a8c002",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1d3443e4938fc146",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2c9e821cd50982e5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "4fab4e68335f3dcd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "37ad8f5a32ddc421",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d4d86f02e08d49ec",
+  "lastOpenFiles": [
+    "Vijay.md",
+    "To-do.md",
+    "Sample.md",
+    "Memory.md",
+    "Ajith.md",
+    "README.md",
+    "https:/github.com/muruganyuvaraaj/obsidian_notes.git/refs/tags",
+    "https://github.com/muruganyuvaraaj/obsidian_notes.git/refs/tags",
+    "https:/github.com/muruganyuvaraaj/obsidian_notes.git/refs",
+    "https://github.com/muruganyuvaraaj/obsidian_notes.git/refs/heads",
+    "https:/github.com/muruganyuvaraaj/obsidian_notes.git/refs/heads",
+    "https://github.com/muruganyuvaraaj/obsidian_notes.git/refs",
+    "https:/github.com/muruganyuvaraaj/obsidian_notes.git/objects/pack",
+    "https://github.com/muruganyuvaraaj/obsidian_notes.git/objects/pack",
+    "https:/github.com/muruganyuvaraaj/obsidian_notes.git/objects",
+    "https://github.com/muruganyuvaraaj/obsidian_notes.git/objects/info"
+  ]
+}

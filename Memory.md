@@ -1,0 +1,1 @@
+Research suggests that the first few hours after learning are critical for memory consolidation, particularly for declarative (fact-based) and procedural (skill-based) memories.

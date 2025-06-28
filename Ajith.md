@@ -1,0 +1,1 @@
+He is an Indian actor who is also into racing and is passionate about it than acting
