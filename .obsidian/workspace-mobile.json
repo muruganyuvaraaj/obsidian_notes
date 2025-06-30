@@ -11,10 +11,14 @@
             "id": "5f04e29731ed89c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MCP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MCP"
             }
           },
           {
@@ -31,8 +35,7 @@
               "title": "Sample"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,14 +175,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cab3a260af7d4e7",
+  "active": "5f04e29731ed89c8",
   "lastOpenFiles": [
-    "Ajith.md",
-    "Memory.md",
     "Sample.md",
-    "Vijay.md",
+    "MCP.md",
     "To-do.md",
     "README.md",
+    "Ajith.md",
+    "Memory.md",
+    "Vijay.md",
     "https:/github.com/muruganyuvaraaj/obsidian_notes.git/refs/tags",
     "https://github.com/muruganyuvaraaj/obsidian_notes.git/refs/tags",
     "https:/github.com/muruganyuvaraaj/obsidian_notes.git/refs",
